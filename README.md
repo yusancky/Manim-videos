@@ -1,7 +1,6 @@
-# Manim-videos
-Source Code of my Videos made by Manim
+# Manim Videos：通过 Manim 制作的视频的源代码
 
-# 列表
+## 列表
 
 | 序号 | 标题 | 视频 | 源代码 | 发布时间 |
 | :----: | :----: | :----: | :----: | :----: |
