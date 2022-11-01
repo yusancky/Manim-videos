@@ -1,2 +1,1 @@
-# Manim-videos
-Source Code of my Videos made by Manim
+# Manim Videos：通过 Manim 制作的视频的源代码
