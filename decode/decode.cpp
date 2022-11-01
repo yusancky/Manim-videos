@@ -1,3 +1,6 @@
+// Copyright (c) yusancky. All rights reserved. 
+// Licensed under the MIT license. 
+
 #include <cmath>
 #include <cstdio>
 using namespace std;

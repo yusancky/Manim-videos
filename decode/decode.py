@@ -1,3 +1,6 @@
+# Copyright (c) yusancky. All rights reserved. 
+# Licensed under the Mozilla Public License Version 2.0. 
+
 from manim import *
 
 my_font = "HarmonyOS Sans SC Light"
